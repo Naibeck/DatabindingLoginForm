@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="observable_fields_button">ObservableFields</string>
+    <string name="rx_databinding_button">Rx Databinding</string>
+    <string name="live_data_button">LiveData</string>
+    <string name="email_hint">Email</string>
+    <string name="password_hint">Password</string>
+    <string name="login_button">Login</string>
+</resources>
